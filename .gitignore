@@ -5,7 +5,7 @@
 # Mac/OSX
 .DS_Store
 
-rsa/
+# rsa/
 env/
 bdk.log
 datafeed.id
